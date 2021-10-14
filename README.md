@@ -15,6 +15,8 @@
 
 ### Настройка проекта
 Переименуйте файл .env.template в .env и задайте свои значения переменных в нем.
+Запустите команду
+    pip install -r requirements.txt
 
 ### Запуск
     python handler.py *command*
