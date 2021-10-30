@@ -19,4 +19,4 @@
     pip install -r requirements.txt
 
 ### Запуск
-    python handler.py *command*
+    python photo_client/handler.py *command*
